@@ -4,4 +4,5 @@ foo = unlines [ "bar"
               , "bar"
               , "binks"
               , "banks"
+              , "arp"
               ]
